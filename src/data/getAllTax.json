@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "createdBy": null,
+    "createdDate": 1681651047000,
+    "modifiedBy": null,
+    "modifiedDate": 1681651047000,
+    "nguoiDungId": 1,
+    "cauHinhId": 1,
+    "thuNhap": 1,
+    "mucLuongDongBH": 1,
+    "vung": 1,
+    "nguoiPhuThuoc": 1,
+    "trangThai": "0",
+    "thangKhai": 1,
+    "namKhai": 1
+  },
+  {
+    "id": 2,
+    "createdBy": null,
+    "createdDate": 1681651050000,
+    "modifiedBy": null,
+    "modifiedDate": 1681651050000,
+    "nguoiDungId": 1,
+    "cauHinhId": 1,
+    "thuNhap": 1,
+    "mucLuongDongBH": 1,
+    "vung": 1,
+    "nguoiPhuThuoc": 1,
+    "trangThai": "1",
+    "thangKhai": 1,
+    "namKhai": 1
+  },
+  {
+    "id": 3,
+    "createdBy": null,
+    "createdDate": 1681651052000,
+    "modifiedBy": null,
+    "modifiedDate": 1681651052000,
+    "nguoiDungId": 1,
+    "cauHinhId": 1,
+    "thuNhap": 1,
+    "mucLuongDongBH": 1,
+    "vung": 1,
+    "nguoiPhuThuoc": 1,
+    "trangThai": "1",
+    "thangKhai": 1,
+    "namKhai": 1
+  }
+]

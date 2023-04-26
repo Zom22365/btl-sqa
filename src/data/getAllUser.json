@@ -1,0 +1,106 @@
+{
+  "page": 0,
+  "totalPage": 0,
+  "listResult": [
+    {
+      "id": 1,
+      "createdBy": null,
+      "createdDate": 1681637871000,
+      "modifiedBy": null,
+      "modifiedDate": 1681637871000,
+      "username": null,
+      "password": null,
+      "role": {
+        "id": 1,
+        "createdBy": null,
+        "createdDate": 1681637871000,
+        "modifiedBy": null,
+        "modifiedDate": 1681637871000,
+        "isAdmin": 1,
+        "xemDanhSach": 1,
+        "xuatBaoCao": 1,
+        "cauHinh": 1
+      },
+      "name": "dtp",
+      "diaChi": "a",
+      "email": "2",
+      "sdt": "3",
+      "maSoThue": "4"
+    },
+    {
+      "id": 2,
+      "createdBy": null,
+      "createdDate": 1681637877000,
+      "modifiedBy": null,
+      "modifiedDate": 1681637877000,
+      "username": null,
+      "password": null,
+      "role": {
+        "id": 2,
+        "createdBy": null,
+        "createdDate": 1681637877000,
+        "modifiedBy": null,
+        "modifiedDate": 1681637877000,
+        "isAdmin": 1,
+        "xemDanhSach": 1,
+        "xuatBaoCao": 1,
+        "cauHinh": 1
+      },
+      "name": "dtp",
+      "diaChi": "a",
+      "email": "2",
+      "sdt": "3",
+      "maSoThue": "4"
+    },
+    {
+      "id": 3,
+      "createdBy": null,
+      "createdDate": 1681637878000,
+      "modifiedBy": null,
+      "modifiedDate": 1681637878000,
+      "username": null,
+      "password": null,
+      "role": {
+        "id": 3,
+        "createdBy": null,
+        "createdDate": 1681637878000,
+        "modifiedBy": null,
+        "modifiedDate": 1681637878000,
+        "isAdmin": 1,
+        "xemDanhSach": 1,
+        "xuatBaoCao": 1,
+        "cauHinh": 1
+      },
+      "name": "dtp",
+      "diaChi": "a",
+      "email": "2",
+      "sdt": "3",
+      "maSoThue": "4"
+    },
+    {
+      "id": 4,
+      "createdBy": null,
+      "createdDate": 1681637878000,
+      "modifiedBy": null,
+      "modifiedDate": 1681637878000,
+      "username": null,
+      "password": null,
+      "role": {
+        "id": 4,
+        "createdBy": null,
+        "createdDate": 1681637878000,
+        "modifiedBy": null,
+        "modifiedDate": 1681637878000,
+        "isAdmin": 1,
+        "xemDanhSach": 1,
+        "xuatBaoCao": 1,
+        "cauHinh": 1
+      },
+      "name": "dtp",
+      "diaChi": "a",
+      "email": "2",
+      "sdt": "3",
+      "maSoThue": "4"
+    }
+  ]
+}

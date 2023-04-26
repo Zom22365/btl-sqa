@@ -1,0 +1,40 @@
+{
+  "id": 1,
+  "createdBy": null,
+  "createdDate": null,
+  "modifiedBy": null,
+  "modifiedDate": null,
+  "nguoiDung": {
+    "id": 2,
+    "createdBy": null,
+    "createdDate": 1681648846000,
+    "modifiedBy": null,
+    "modifiedDate": 1681648846000,
+    "username": "dtp",
+    "password": "1",
+    "role": {
+      "id": 2,
+      "createdBy": null,
+      "createdDate": 1681648846000,
+      "modifiedBy": null,
+      "modifiedDate": 1681648846000,
+      "isAdmin": 1,
+      "xemDanhSach": 1,
+      "xuatBaoCao": 1,
+      "cauHinh": 1
+    },
+    "name": "dtp",
+    "diaChi": "a",
+    "email": "2",
+    "sdt": "3",
+    "maSoThue": "4"
+  },
+  "thuNhap": 1,
+  "mucLuongDongBH": 1,
+  "vung": 1,
+  "nguoiPhuThuoc": 1,
+  "trangThai": "1",
+  "cmtc": [],
+  "thangKhai": 1,
+  "namKhai": 1
+}

@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ant-menu-item {
+  /* padding-top: 16px !important;
+  padding-bottom: 16px !important; */
+  margin: 20px 0px !important;
+}
+
+.ant-menu-submenu-title:hover {
+  background: #e2e2e2 !important;
+}
+.ant-menu-item:hover {
+  background: #e2e2e2 !important;
+}
+
+.ant-menu-item-icon {
+  font-size: 20px !important;
+}
+
+button svg {
+  font-size: 24px;
+  margin-top: 10px;
+}
+
+.slogan {
+  font-size: 24px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.nav {
+  background: rgb(39 52 76);
+  color: #fff;
+}
+
+.avatar {
+  width: 40px;
+  height: 40px;
+}
+
+.main-content {
+  margin: 32px;
+}
+
+.screen {
+  display: flex;
+}
+.app {
+  flex: 1;
+}
+
+.ant-table-thead .ant-table-cell {
+  /* text-align: center; */
+}
